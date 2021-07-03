@@ -1,0 +1,39 @@
+.search-page-container {
+  /* padding-left: 30px; */
+  /* background-color: #04042b; */
+  /* background-image:url("../../img/search-page-background.jpg"); */
+  background-color: #2b2b31;
+}
+
+.all-movies-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin-left: 10%;
+}
+.content {
+  display: flex;
+  width: 100%;
+}
+.filters-container {
+  margin-left: 20px;
+  width: 150px;
+}
+
+.button-reset-all-filters {
+  transition: transform 250ms;
+  color: #ff5860;
+}
+.button-reset-all-filters:hover {
+  background-color: #ff5860;
+  transform: translateY(-2px);
+  color: white;
+  box-shadow: 0 5px 15px #ff5860;
+}
+
+.noResults {
+  color: white;
+  margin-top: 30px;
+  font-size: large;
+  /* margin-left: 100px; */
+}
