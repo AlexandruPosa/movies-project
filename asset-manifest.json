@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movies-project/static/css/main.4bd52ffb.chunk.css",
+    "main.js": "/movies-project/static/js/main.38eb4289.chunk.js",
+    "main.js.map": "/movies-project/static/js/main.38eb4289.chunk.js.map",
+    "runtime-main.js": "/movies-project/static/js/runtime-main.206eb8a6.js",
+    "runtime-main.js.map": "/movies-project/static/js/runtime-main.206eb8a6.js.map",
+    "static/css/2.4925611d.chunk.css": "/movies-project/static/css/2.4925611d.chunk.css",
+    "static/js/2.15c4c717.chunk.js": "/movies-project/static/js/2.15c4c717.chunk.js",
+    "static/js/2.15c4c717.chunk.js.map": "/movies-project/static/js/2.15c4c717.chunk.js.map",
+    "index.html": "/movies-project/index.html",
+    "precache-manifest.219e936a5f49fb8e07043c8a25ca4bca.js": "/movies-project/precache-manifest.219e936a5f49fb8e07043c8a25ca4bca.js",
+    "service-worker.js": "/movies-project/service-worker.js",
+    "static/css/2.4925611d.chunk.css.map": "/movies-project/static/css/2.4925611d.chunk.css.map",
+    "static/css/main.4bd52ffb.chunk.css.map": "/movies-project/static/css/main.4bd52ffb.chunk.css.map",
+    "static/js/2.15c4c717.chunk.js.LICENSE.txt": "/movies-project/static/js/2.15c4c717.chunk.js.LICENSE.txt",
+    "static/media/ContactForm.css": "/movies-project/static/media/contact-form-background.dd8d447d.jpg",
+    "static/media/mr3.PNG": "/movies-project/static/media/mr3.ed0a27e8.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.206eb8a6.js",
+    "static/css/2.4925611d.chunk.css",
+    "static/js/2.15c4c717.chunk.js",
+    "static/css/main.4bd52ffb.chunk.css",
+    "static/js/main.38eb4289.chunk.js"
+  ]
+}
