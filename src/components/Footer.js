@@ -8,7 +8,7 @@ class Footer extends Component {
   state = {
     isLoggedIn: false,
   };
-
+  // add some comm
   componentDidMount() {
     let token = document.cookie;
     if (token.includes("token")) {
